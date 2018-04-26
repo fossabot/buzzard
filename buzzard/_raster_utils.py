@@ -103,7 +103,7 @@ class RasterUtilsMixin(object):
             if isinstance(val, str):
                 ret['interpretation'] = [conv.gci_of_str(val)] * band_count
             else:
-                _test_length(val, 'nodata')
+                _test_length(val, 'interpretation')
                 ret['interpretation'] = [conv.gci_of_str(elt) for elt in val]
 
         if 'offset' in band_schema:
