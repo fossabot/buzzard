@@ -550,7 +550,7 @@ class DataSource(_datasource_tools.DataSourceToolsMixin, DataSourceConversionsMi
 
     def create_vector(self, key, path, geometry, fields=(), layer=None,
                       driver='ESRI Shapefile', options=(), sr=None):
-        """Create a vector file and register it under `key` in this DataSource. Only metadata are
+        """Create a vector file and register it under `key` in write mode in this DataSource. Only metadata are
         kept in memory.
 
         Parameters

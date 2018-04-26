@@ -196,7 +196,7 @@ class RasterPhysical(Raster):
             Input data
         fp: Footprint
             Of shape (Y, X)
-            Within in raster file
+            Within raster file
         band: band index or sequence of band index (see `Band Indices` below)
         interpolation: one of ('cv_area', 'cv_nearest', 'cv_linear', 'cv_cubic', 'cv_lanczos4')
             Resampling method
