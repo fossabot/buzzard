@@ -9,6 +9,7 @@ In a nutshell, `buzzard` reads and writes geospatial raster and vector data.
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/airware/asl-validator/blob/master/LICENSE)
 [![CircleCI](https://circleci.com/gh/airware/buzzard/tree/master.svg?style=shield&circle-token=9d41310f0eb3f8ff120a7103ba2d7ee5d5d628b7)](https://circleci.com/gh/airware/buzzard/tree/master)
 [![codecov](https://codecov.io/gh/airware/buzzard/branch/master/graph/badge.svg?token=FbWmLGplCq)](https://codecov.io/gh/airware/buzzard)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fairware%2Fbuzzard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fairware%2Fbuzzard?ref=badge_shield)
 
 Table of Contents
 -----------------
@@ -165,6 +166,9 @@ See [AUTHORS](./AUTHORS.md)
 
 ## License and Notice
 See [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fairware%2Fbuzzard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fairware%2Fbuzzard?ref=badge_large)
 
 ## Other pages
 - [examples](./doc/examples.ipynb)
